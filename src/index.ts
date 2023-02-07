@@ -46,6 +46,7 @@ module.exports = {
         '@typescript-eslint/no-use-before-define': 'off',
         '@typescript-eslint/no-var-requires': 'off',
         '@typescript-eslint/no-warning-comments': 'off',
+        '@typescript-eslint/no-unsafe-assignment': 'error',
         'node/no-missing-import': 'off',
         'node/no-empty-function': 'off',
         'node/no-unsupported-features/es-syntax': 'off',

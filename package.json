@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-viking",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "TypeScript ESLint configuration for Vikings",
   "main": "dist/index.js",
   "repository": "https://github.com/agirorn/eslint-config-viking",
